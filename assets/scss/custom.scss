@@ -1,0 +1,14 @@
+.widget {
+    display: block;
+}
+
+.widget-header {
+    display: flex;
+    margin-bottom: 10px;
+    align-items: center;
+    gap: 10px;
+
+    h2 {
+        margin-bottom: 5px;
+    }
+}
