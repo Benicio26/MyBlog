@@ -1,6 +1,6 @@
 export $(grep -v '^#' .env | xargs)
 
-# git pull --rebase
+git pull --rebase
 
 python3 pull_db.py
 
