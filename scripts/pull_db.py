@@ -98,8 +98,6 @@ pages = notion.databases.query(
 # Convert to wrapper class
 pages = [Page(p) for p in pages]
 
-output = []
-
 for page in pages:
     md = StringExporter(block_id=page.id).export()
     md = re.sub(r'^\s*?!\[', '![', md)          # Remove any indented image tags
@@ -126,7 +124,3 @@ for page in pages:
             }
         }
     )
-
-    output.append(page.slug)
-
-print(' '.join(output))
