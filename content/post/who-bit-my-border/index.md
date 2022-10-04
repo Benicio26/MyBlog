@@ -1,7 +1,7 @@
 ---
 categories:
 - Article
-date: '2022-10-04T14:10:00.000Z'
+date: '2022-10-04T14:24:00.000Z'
 description: " A swift commentary on the peculiarity along the 141\xBA Meridian along\
   \ the Papua New Guinean border. A classic case of colonial power disputes."
 image: cover.jpg
