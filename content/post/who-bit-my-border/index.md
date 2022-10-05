@@ -1,7 +1,7 @@
 ---
 categories:
 - Article
-date: '2022-10-05T16:17:00.000Z'
+date: '2022-10-05T18:31:00.000Z'
 description: " A swift commentary on the peculiarity along the 141\xBA Meridian along\
   \ the Papua New Guinean border. A classic case of colonial power disputes."
 image: cover.jpg
@@ -17,7 +17,7 @@ title: Who Bit My Border
 ---
 # Main Takeaways
 
-testy test
+test
 
 # My Notes
 
