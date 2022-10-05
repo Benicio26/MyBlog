@@ -1,7 +1,7 @@
 ---
 categories:
 - Book - Non Fiction
-date: '2022-10-04T18:48:00.000Z'
+date: '2022-10-05T15:50:00.000Z'
 description: ''
 tags:
 - International Relations
