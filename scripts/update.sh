@@ -7,7 +7,4 @@ python3 pull_db.py
 git add ../content/*
 git commit -m 'Auto Sync with Notion'
 
-git push <<HERE
-Benicio26
-$GH_TOKEN
-HERE
+git push https://Benicio26:${GH_TOKEN}@github.com/Benicio26/MyBlog.git

@@ -3,9 +3,13 @@ import re
 import yaml
 import requests
 import opengraph_parse
+from shutil import rmtree
 from slugify import slugify
 from notion_client import Client
 from notion2md.exporter.block import StringExporter
+
+
+DATABASE_ID = '0fd230e4-f6d3-4a43-b2da-453f0d71c2a6'
 
 
 class Page:
@@ -85,8 +89,8 @@ class Page:
 
 notion = Client(auth=os.environ['NOTION_TOKEN'])
 
-pages = notion.databases.query(
-    database_id='0fd230e4-f6d3-4a43-b2da-453f0d71c2a6',
+new_pages = notion.databases.query(
+    database_id=DATABASE_ID,
     filter={
         'property': 'Notes Status',
         'select': {
@@ -96,9 +100,9 @@ pages = notion.databases.query(
 ).get('results')
 
 # Convert to wrapper class
-pages = [Page(p) for p in pages]
+new_pages = [Page(p) for p in new_pages]
 
-for page in pages:
+for page in new_pages:
     md = StringExporter(block_id=page.id).export()
     md = re.sub(r'^\s*?!\[', '![', md)          # Remove any indented image tags
     md = re.sub(r'\*(.*?)\s\*', '*\g<1>* ', md) # Fix improperly formatted italics
@@ -124,3 +128,21 @@ for page in pages:
             }
         }
     )
+
+remote_pages = notion.databases.query(
+    database_id=DATABASE_ID,
+    filter={
+        'property': 'Notes Status',
+        'select': {
+            'equals': 'Published'
+        }
+    }
+).get('results')
+
+pages = [Page(p).slug for p in remote_pages]
+
+local_pages = [f for f in os.scandir('../content/post/') if f.is_dir()]
+
+for page in local_pages:
+    if page.name not in pages:
+        rmtree(page)
