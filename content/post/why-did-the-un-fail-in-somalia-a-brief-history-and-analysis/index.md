@@ -1,7 +1,7 @@
 ---
 categories:
 - Commentary
-date: '2022-10-21T16:59:00.000Z'
+date: '2022-10-21T17:01:00.000Z'
 description: ''
 image: cover.jpg
 tags:
