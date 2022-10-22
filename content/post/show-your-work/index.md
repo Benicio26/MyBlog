@@ -1,8 +1,9 @@
 ---
 categories:
 - Book - Non Fiction
-date: '2022-10-03T21:12:00.000Z'
+date: '2022-10-22T09:29:00.000Z'
 description: ''
+image: cover.jpg
 tags:
 - Life Advice
 - Creativity
@@ -24,11 +25,11 @@ By building sharing into your routine, you immediately begin to attract a group 
 
 - And although they may be likeminded, they will offer you help and criticism, all while being engaged in the work you share
 
-	![Screen_Shot_2022-10-02_at_3.48.15_PM.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/13a2a320-383c-41fc-b38f-68db67d5ab98/Screen_Shot_2022-10-02_at_3.48.15_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221003%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221003T211815Z&X-Amz-Expires=3600&X-Amz-Signature=5bb0fb472c73be74dbe4f2296814129a82f1815210e883ae1deb38a3d1167989&X-Amz-SignedHeaders=host&x-id=GetObject)
+	![Screen_Shot_2022-10-02_at_3.48.15_PM.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/13a2a320-383c-41fc-b38f-68db67d5ab98/Screen_Shot_2022-10-02_at_3.48.15_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221022%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221022T093002Z&X-Amz-Expires=3600&X-Amz-Signature=e986d61c45256cc2b64b17338384cc5c7851fa61caa493611e5b57f7f4ac1005&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 “Give what you have. To someone, it may be better than you dare to think.” - Henry Wadsworth Longfellow
 
-The “lone genuis” myth. it created this idea of creativity as an *antisocial* act, delimited to those the likes of Mozart, Einstein, Picasso, Tesla
+The “lone genuis” myth. It created this idea of creativity as an *antisocial* act, delimited to those the likes of Mozart, Einstein, Picasso, Tesla
 
 The idea of the scenius: ideas are not born in an echo chamber, even the greats had people to support them, creativity is born *in tandem* with collaboration.
 
@@ -118,7 +119,7 @@ When choosing what to post, stick to the question: *What are you working on?*
 
 Don’t worry about being perfect, Theodore Sturgeon once said 90% of everything is crap.
 
-![Screen_Shot_2022-10-02_at_10.04.17_PM.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8b49f7b0-d6bb-4aee-a1e1-b07498bdaa56/Screen_Shot_2022-10-02_at_10.04.17_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221003%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221003T211815Z&X-Amz-Expires=3600&X-Amz-Signature=804e6a676d6c4e4f93312d5b6e2bbf4d1291d9f5a8f3af6fb3e50182c460ecc2&X-Amz-SignedHeaders=host&x-id=GetObject)
+![Screen_Shot_2022-10-02_at_10.04.17_PM.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8b49f7b0-d6bb-4aee-a1e1-b07498bdaa56/Screen_Shot_2022-10-02_at_10.04.17_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221022%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221022T093002Z&X-Amz-Expires=3600&X-Amz-Signature=0399ffd281457c519b4b57d52d90f98f63e7410ca79bf1b5f9979b31fb43cf7a&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 We are all busy, but we all get 24 hours a day. So how do we find the time?
 
@@ -142,7 +143,7 @@ Ask yourself, “so what” every time you post some piece of work. Don’t over
 
 It’s okay to let something dwell as a draft for further review, you’ll be glad you did.
 
-![Screen_Shot_2022-10-03_at_2.37.37_PM.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f83eb76c-b555-4015-8ae9-6aa3f1a2307e/Screen_Shot_2022-10-03_at_2.37.37_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221003%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221003T211815Z&X-Amz-Expires=3600&X-Amz-Signature=24eebfbf5a7dbc9a7e6328583baa58155d4264d46c308b161636b95455bbc292&X-Amz-SignedHeaders=host&x-id=GetObject)
+![Screen_Shot_2022-10-03_at_2.37.37_PM.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f83eb76c-b555-4015-8ae9-6aa3f1a2307e/Screen_Shot_2022-10-03_at_2.37.37_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221022%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221022T093002Z&X-Amz-Expires=3600&X-Amz-Signature=46cc092c49a8d4faf1fd114870f9c2395e745f05c4d55ca8a5b741ff7ddd810a&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 *I would note:* Change “is it useful or interesting?” too “Can it be useful or interesting?” Is it interesting, is a bit too decisive of a question. We have to be forward looking in our analysis of our work.
 
@@ -180,25 +181,33 @@ Do your thing, so when they’re ready to see it one day, you’re ready for the
 
 *Don’t be a Hoarder*
 
-<br/>
+In 16th / 17th century Europe, people had *Wunderkammern,* A wonder chamber to fill the things you owned, kind of like a modern day museum.
 
-# Changes in Perspective / Inspirations 
+Take note of your influences. Whether you like it or not, the work you produce is inherently an amalgamation of the work of hundreds before you.
 
-<br/>
+After you realize your influences, share them. They give others a clue as to who you are and the type of work that you hope to create. 
 
-# Criticisms
+When you first create things, they wont be that good, “but your taste, the thing that got you into the game, is still killer”
 
-<br/>
+Your influences are worth sharing as well.
 
-# Who would I recommend it to?
+---
 
-<br/>
+*No Guilty Pleasures*
 
-# Top Quotes
+“Dumpster diving” is one of the jobs of the artist
 
-<br/>
+To find gold, you must search for it. Look through the bits and pieces that everyone else is ignoring. Pay attention to it, comment on it. Be willing to search for inspiration in places other people aren’t willing or able to go.
 
-<br/>
+Don’t be ashamed for liking “garbage.” Everyone will always have their guilty pleasures, but that’s what makes us unique. Have the courage to keep loving your garbage.
 
-<br/>
+Don’t try to be hip or cool. Be open and honest about the things you like, that’s what makes you you. And don’t let anyone else shame you for liking the things you do. 
+
+---
+
+*Credit is Always Due*
+
+Always attribute the original creator of a cited work. This is always going to be extremely important, not just in the upper echelons of academia. 
+
+But don’t just share the author. Share the how, when, why, where, etc. of the work you find. 
 
