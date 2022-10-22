@@ -1,8 +1,9 @@
 ---
 categories:
 - Book - Non Fiction
-date: '2022-10-07T23:26:00.000Z'
+date: '2022-10-22T15:48:00.000Z'
 description: ''
+image: cover.jpg
 tags:
 - International Relations
 - History
@@ -10,7 +11,7 @@ title: Borderlines and BorderLands - Political Oddities at the Edge of the Natio
 ---
 # My Main Takeaways
 
-test
+<br/>
 
 # My Notes
 
