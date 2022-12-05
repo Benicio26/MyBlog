@@ -1,7 +1,7 @@
 ---
 categories:
 - Book - Non Fiction
-date: '2022-10-22T09:29:00.000Z'
+date: '2022-12-05T19:23:00.000Z'
 description: ''
 image: cover.jpg
 tags:
@@ -25,7 +25,7 @@ By building sharing into your routine, you immediately begin to attract a group 
 
 - And although they may be likeminded, they will offer you help and criticism, all while being engaged in the work you share
 
-	![Screen_Shot_2022-10-02_at_3.48.15_PM.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/13a2a320-383c-41fc-b38f-68db67d5ab98/Screen_Shot_2022-10-02_at_3.48.15_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221022%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221022T093002Z&X-Amz-Expires=3600&X-Amz-Signature=e986d61c45256cc2b64b17338384cc5c7851fa61caa493611e5b57f7f4ac1005&X-Amz-SignedHeaders=host&x-id=GetObject)
+	![Screen_Shot_2022-10-02_at_3.48.15_PM.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/13a2a320-383c-41fc-b38f-68db67d5ab98/Screen_Shot_2022-10-02_at_3.48.15_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221205%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221205T193003Z&X-Amz-Expires=3600&X-Amz-Signature=c8f1d50a1ae3a27c688fd52690462c7e95b609815153133c8c5a79be3b911221&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 “Give what you have. To someone, it may be better than you dare to think.” - Henry Wadsworth Longfellow
 
@@ -119,7 +119,7 @@ When choosing what to post, stick to the question: *What are you working on?*
 
 Don’t worry about being perfect, Theodore Sturgeon once said 90% of everything is crap.
 
-![Screen_Shot_2022-10-02_at_10.04.17_PM.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8b49f7b0-d6bb-4aee-a1e1-b07498bdaa56/Screen_Shot_2022-10-02_at_10.04.17_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221022%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221022T093002Z&X-Amz-Expires=3600&X-Amz-Signature=0399ffd281457c519b4b57d52d90f98f63e7410ca79bf1b5f9979b31fb43cf7a&X-Amz-SignedHeaders=host&x-id=GetObject)
+![Screen_Shot_2022-10-02_at_10.04.17_PM.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8b49f7b0-d6bb-4aee-a1e1-b07498bdaa56/Screen_Shot_2022-10-02_at_10.04.17_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221205%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221205T193003Z&X-Amz-Expires=3600&X-Amz-Signature=0b7bf86f88f4270297b7c53821cdc99e7764778a0b07bf557248a72ae0ae2820&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 We are all busy, but we all get 24 hours a day. So how do we find the time?
 
@@ -143,7 +143,7 @@ Ask yourself, “so what” every time you post some piece of work. Don’t over
 
 It’s okay to let something dwell as a draft for further review, you’ll be glad you did.
 
-![Screen_Shot_2022-10-03_at_2.37.37_PM.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f83eb76c-b555-4015-8ae9-6aa3f1a2307e/Screen_Shot_2022-10-03_at_2.37.37_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221022%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221022T093002Z&X-Amz-Expires=3600&X-Amz-Signature=46cc092c49a8d4faf1fd114870f9c2395e745f05c4d55ca8a5b741ff7ddd810a&X-Amz-SignedHeaders=host&x-id=GetObject)
+![Screen_Shot_2022-10-03_at_2.37.37_PM.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f83eb76c-b555-4015-8ae9-6aa3f1a2307e/Screen_Shot_2022-10-03_at_2.37.37_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221205%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221205T193003Z&X-Amz-Expires=3600&X-Amz-Signature=829cffdffd889c346466cb2093e9f4b291dbd965be591981aaf4997e7e1ed50a&X-Amz-SignedHeaders=host&x-id=GetObject)
 
 *I would note:* Change “is it useful or interesting?” too “Can it be useful or interesting?” Is it interesting, is a bit too decisive of a question. We have to be forward looking in our analysis of our work.
 
