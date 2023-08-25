@@ -1,6 +1,7 @@
 import os
 import re
 import yaml
+import pprint
 import requests
 import opengraph_parse
 from shutil import rmtree
@@ -26,8 +27,8 @@ class Page:
 
     @property
     def name(self):
-        if len(self.data['properties']['Name']['title']) > 0:
-            return self.data['properties']['Name']['title'][0]['plain_text']
+        if len(self.data['properties']['Title']['title']) > 0:
+            return self.data['properties']['Title']['title'][0]['plain_text']
         return ''
 
     @property
